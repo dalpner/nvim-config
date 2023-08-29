@@ -16,6 +16,7 @@ Plug 'https://github.com/tpope/vim-commentary'			" Comment gcc & gc
 Plug 'https://github.com/preservim/tagbar'				" Tagbar for code navigation
 Plug 'https://github.com/neoclide/coc.nvim'				" Auto Completion
 Plug 'iamcco/markdown-preview.nvim', { 'do': 'cd app && yarn install' }		"Markdown preview
+Plug 'https://github.com/tpope/vim-fugitive'			" Git for vim
 
 call plug#end()
 
