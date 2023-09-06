@@ -1,4 +1,29 @@
 # 💤 LazyVim
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+LazyVim setup is based on the offical template:
+
+[LazyVim](https://github.com/LazyVim/LazyVim).
+
+## Requirements:
+
+golang-1.20+
+
+
+## Setup
+
+Clone the config
+
+```
+git clone https://github.com/dalpner/nvim-config ~/.config/nvim
+```
+
+Remove git folder
+```
+rm -rf ~/.config/nvim/.git
+```
+
+Start nvim with new configuration
+```
+nvim
+```
+
