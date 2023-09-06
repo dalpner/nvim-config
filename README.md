@@ -7,6 +7,7 @@ LazyVim setup is based on the offical template:
 ## Requirements:
 
 golang-1.20+
+
 nvim 0.9.0+
 
 
